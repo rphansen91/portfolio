@@ -1,0 +1,12 @@
+{
+  "Fingerpaint": {
+    "name": "Fingerpaint",
+    "img": "https://rphansen91.github.io/fingerpaint/fingerpaint.png",
+    "url": "https://github.com/rphansen91/fingerpaint"
+  },
+  "TapDrummer": {
+    "name": "Tap Drummer",
+    "img": "https://github.com/rphansen91/beat-box/blob/master/img/drake.jpg?raw=true",
+    "url": "https://github.com/rphansen91/beat-box"
+  }
+}
